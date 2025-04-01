@@ -4,6 +4,7 @@ This tutorial shows you how to use arcade to connect your Gmail to Arcade's
 [Gmail integration](https://docs.arcade.dev/toolkits/productivity/google/gmail),
 allowing it to manage emails on your behalf.
 
+You can follow this step-by-step on our [YouTube channel](https://youtu.be/5fdqz2Xk4dI?si=2dRqxUFV_tM0W0RC)
 
 # Setup
 
